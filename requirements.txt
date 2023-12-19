@@ -1,3 +1,2 @@
 TwitchWebsocket
 nltk
-beamsearch
