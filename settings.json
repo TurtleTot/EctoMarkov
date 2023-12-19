@@ -1,0 +1,29 @@
+{
+    "Host": "irc.chat.twitch.tv",
+    "Port": 6667,
+    "Channel": "#turtleturtletm",
+    "Nickname": "xiiitherat",
+    "Authentication": "oauth:up8ufvo2gk3qjym8uism2zy0sc9t6q",
+    "DeniedUsers": [
+        "StreamElements",
+        "Moobot",
+        "Marbiebot",
+		"Nightbot",
+		"ecto"
+    ],
+    "AllowedUsers": ["turtleturtletm", "copdisbong", "basterdkiddies", "kombuse", "ecto"],
+    "Cooldown": 20,
+    "KeyLength": 2,
+    "MaxSentenceWordAmount": 50,
+    "MinSentenceWordAmount": 1,
+    "HelpMessageTimer": -1,
+    "AutomaticGenerationTimer": 500,
+    "WhisperCooldown": true,
+    "EnableGenerateCommand": true,
+    "SentenceSeparator": " - ",
+    "AllowGenerateParams": true,
+    "GenerateCommands": [
+        "!ratting",
+        "!x"
+    ]
+}
