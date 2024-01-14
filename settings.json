@@ -1,7 +1,7 @@
 {
     "Host": "irc.chat.twitch.tv",
     "Port": 6667,
-    "Channel": "#turtleturtletm",
+    "Channel": "#ecto",
     "Nickname": "xiiitherat",
     "Authentication": "oauth:up8ufvo2gk3qjym8uism2zy0sc9t6q",
     "DeniedUsers": [
