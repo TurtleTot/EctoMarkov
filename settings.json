@@ -11,7 +11,7 @@
 		"Nightbot",
 		"ecto"
     ],
-    "AllowedUsers": ["turtleturtletm", "copdisbong", "basterdkiddies", "kombuse", "ecto"],
+    "AllowedUsers": ["turtleturtletm", "copdisbong", "basterdkiddies", "kombuse", "ecto", "feralharupi"],
     "Cooldown": 20,
     "KeyLength": 2,
     "MaxSentenceWordAmount": 50,
